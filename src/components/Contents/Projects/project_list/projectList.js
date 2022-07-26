@@ -8,7 +8,7 @@ export const projectList = [
     {
         name: 'Website Portfolio',
         status: 'In Development',
-        image: '/assets/WebProject.png',
+        image: '/assets/WebProject.PNG',
         type: 'Website',
     },
     {
